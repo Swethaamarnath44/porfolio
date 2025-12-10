@@ -1,2 +1,1 @@
-# porfolio
-this is my portfolio
+# Responsive-Portfolio-Robo-Typed
